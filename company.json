@@ -507,7 +507,7 @@
     }
   ],
   "remoteAccess": {
-    "type": "IPsec VPN & OpenVPN",
+    "type": "bastion",
     "note": "Şubeler arası tüneller AES-256-GCM ve SHA-256 ile şifrelenmiştir."
   },
   "monitoring": {
@@ -516,5 +516,5 @@
     "alertSink": "Telegram Bot API üzerinden SOC ekibine anlık JSON POST uyarıları (Örn: Brute-Force engelleme alarmları).",
     "appVsSecurity": "Separated; bandwidth shaped via traffic shaper while security logs are processed through ufw/nftables kernel log prefixes."
   },
-  "slug": "ag-guvenligi-planlamasi"
+  "slug": "kalkan-as"
 }
