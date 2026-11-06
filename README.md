@@ -1,4 +1,4 @@
-# Şirket Ağ Güvenliği Planlamasi ve OS-Seviyesi Firewall (UFW) Entegrasyon Projesi
+# Kalkan A.Ş.
 
 ## 1. Projenin Genişletilmiş Amacı ve Kapsamı
 Bu proje, uluslararası çapta faaliyet gösteren ve Ankara, İstanbul, Londra ofislerinin yanı sıra devasa bir akademik şube (10.000+ öğrenci) ile yüksek gizlilik gerektiren Ar-Ge ve Yazılım ekiplerini barındıran devasa bir yapının siber güvenlik mimarisini kurgulamaktadır. 
