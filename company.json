@@ -119,8 +119,8 @@
       "role": "headquarters",
       "location": "Istanbul, Turkey",
       "population": {
-        "management_finance": 300,
-        "soc_team": 20
+        "employees": 300,
+        "software": 20
       },
       "network": {
         "cidr": "10.1.100.0/24",
@@ -224,8 +224,8 @@
       "role": "branch",
       "location": "London, United Kingdom",
       "population": {
-        "sales_legal": 50,
-        "local_it": 2
+        "students": 50,
+        "software": 2
       },
       "network": {
         "cidr": "10.3.10.0/24",
@@ -417,7 +417,7 @@
       "role": "branch",
       "location": "Ankara, Turkey",
       "population": {
-        "developers": 140
+        "software": 140
       },
       "network": {
         "cidr": "10.5.50.0/24",
