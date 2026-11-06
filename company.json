@@ -119,7 +119,7 @@
       "role": "headquarters",
       "location": "Istanbul, Turkey",
       "population": {
-        "employees": 300,
+        "students": 300,
         "software": 20
       },
       "network": {
@@ -314,7 +314,7 @@
       "location": "Ankara, Turkey",
       "population": {
         "students": 10000,
-        "faculty": 500
+        "software": 500
       },
       "network": {
         "cidr": "10.20.0.0/16",
