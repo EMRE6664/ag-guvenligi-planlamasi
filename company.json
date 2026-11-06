@@ -15,8 +15,8 @@
       "role": "branch",
       "location": "Ankara, Turkey",
       "population": {
-        "administrative": 150,
-        "it_support": 10
+        "students": 150,
+        "staff": 10
       },
       "network": {
         "cidr": "10.1.10.0/24",
@@ -508,7 +508,7 @@
   ],
   "remoteAccess": {
     "type": "bastion",
-    "note": "Şubeler arası tüneller AES-256-GCM ve SHA-256 ile şifrelenmiştir."
+    "note": "Güvenli geçiş noktası üzerinden erişim sağlanmaktadır."
   },
   "monitoring": {
     "siem": "Merkezi Splunk ve QRadar entegrasyonu. Ubuntu sunucularda ufw-logger Python daemon ile systemd üzerinden eşzamanlı tail -f log takibi.",
